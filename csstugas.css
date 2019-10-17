@@ -1,0 +1,73 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.navigasi{
+	background-color:black; 
+	text-align: center;
+	width: 100%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.navigasi ul li{
+	display: inline;
+	font-size: 30px;
+	margin-right: 5%;	
+}
+body{
+background-color: #FF6600;
+text-decoration: none;
+
+}
+
+.beranda{
+	background-image: url('bk1.jpg');
+	background-size: cover;
+
+}
+.grosir2{
+	margin-top: -24%;
+	text-align: left;
+	font-size: 24px;
+}
+.grosir2 li{
+	background-color: black;
+	width: 13%;
+	border-radius: 7px;
+	margin:0 0 0 2%;
+}
+.grosir{
+	margin: 0 0 0 -60%;
+	padding-top: 5%;
+	width: 100%;
+}
+.rekom{
+	margin: 0 0 0 77%;
+	padding-top: 1%;
+}
+.rekom2{
+	margin-top: -24%;
+	text-align: left;
+	font-size: 24px;
+}
+.rekom2 li{
+	background-color: black;
+	width: 14%;
+	border-radius: 7px;
+	margin:0 0 0 59%;
+}
+.rekom3{
+	margin: 0 0 0 35%;
+	padding-top: 1%;
+}
+h1{
+	font-family:"Forte"; 
+	font-weight:500px;
+	font-size: 50px;
+}
+

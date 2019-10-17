@@ -1,0 +1,88 @@
+body{
+	background-image: url(hd2.jpg);
+	text-decoration: none;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	font-family:"Forte"; 
+	font-size: 50px;
+	margin-right: 70%;
+	color:white;
+}
+.nama-produk{
+	margin :4% -2% 0 40%;
+	text-align: left;
+	font-size: 26px;
+	list-style-type: none;
+	color: white;
+}
+.harga{
+	margin:2% 0 0 -10%;
+	font-family: "Forte";
+	font-size: 30px;
+	color: white;
+}
+.Beli-sekarang{
+	list-style-type: none;
+	font-size:20px;
+	font-family: "Forte";
+	background-color: orange;
+	width: 15%;
+	border-radius: 17px;
+	margin-left: -7%;
+	margin-top: 10px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.Tambah-keranjang{
+	list-style-type: none;
+	font-size:20px;
+	font-family: "Forte";
+	background-color: orange;
+	width: 20%;
+	border-radius: 17px;
+	margin-left: 30%;
+	margin-top: -27px;
+}
+.pilihan{
+	margin-top: 5%;
+	margin-left: 1%;
+}
+.gambar{
+	margin-right:  60%;
+	margin-top: -29%;
+
+}
+#transaksi-box{
+	position:relative;
+	margin: -39% auto;
+	height: 550px;
+	width: 600px;
+	background:#fff;
+	border-radius: 17px;
+	background-color: #ff5e08;
+}
+.box ul{
+	list-style-type: none;
+	margin-right: 110%;
+	text-align: left;
+	top:10px;
+	left:0;
+	box-sizing: border-box;
+	padding: 5%;
+	width: 300px;
+	height: 400px;
+}
+.kirim-data li{
+	list-style-type: none;
+	color: white;
+	background-color: orange;
+	width: 19%;
+	border-radius: 7px;
+	margin:17% 0 0 40%;
+	position: absolute;
+}

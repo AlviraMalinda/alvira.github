@@ -1,0 +1,60 @@
+body{
+	background-image: url(hd2.jpg);
+	text-decoration: none;
+	background-attachment: fixed;
+	background-size: cover;
+	background-position: center;
+}
+h1{
+	font-family:"Forte"; 
+	font-size: 50px;
+	margin-right: 70%;
+	color:white;
+}
+.nama-produk{
+	margin :4% -2% 0 40%;
+	text-align: left;
+	font-size: 26px;
+	list-style-type: none;
+	color: white;
+
+}
+.harga{
+	margin:2% 0 0 -10%;
+	font-family: "Forte";
+	font-size: 30px;
+	color: white;
+}
+.Beli-sekarang{
+	list-style-type: none;
+	font-size:20px;
+	font-family: "Forte";
+	background-color: orange;
+	width: 15%;
+	border-radius: 17px;
+	margin-left: -7%;
+	margin-top: 10px;
+}
+a{
+	text-decoration: none;
+	color: black;
+}
+.Tambah-keranjang{
+	list-style-type: none;
+	font-size:20px;
+	font-family: "Forte";
+	background-color: orange;
+	width: 20%;
+	border-radius: 17px;
+	margin-left: 30%;
+	margin-top: -27px;
+}
+.pilihan{
+	margin-top: 5%;
+	margin-left: 1%;
+}
+.gambar{
+	margin-right:  60%;
+	margin-top: -29%;
+
+}

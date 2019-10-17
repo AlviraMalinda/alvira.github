@@ -1,0 +1,61 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.navigasi{
+	background-color:black;
+	border-radius: 15px; 
+	text-align: center;
+	width: 99.9%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.navigasi ul li{
+	display: inline;
+	font-size: 30px;
+	margin-right: 5%;	
+}
+body{
+background-color: #FF6600;
+text-decoration: none;
+}
+h1{
+	font-family:"Forte"; 
+	font-weight:500px;
+	font-size: 50px;
+}
+.tempat {
+	margin-left: -77.9%;
+	font-size: 23px;
+}
+.tempat li{
+	list-style-type: none;
+	text-align: left;
+	padding: 1%;
+}
+.keterangan{
+	list-style-type: none;
+	font-size: 25px;
+	padding: 5%;
+
+}
+.keterangan li{
+	list-style-type: none;
+	font-size:25px;
+	margin-top: 5%;
+	background-color: orange;
+	border-radius: 12px;
+	width: 10%;
+	padding: 1%;
+}
+img{
+	width: 20%;
+	margin-bottom: 5%;
+	opacity:0.4;
+	padding: 2%;
+}

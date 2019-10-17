@@ -1,0 +1,52 @@
+*{
+	padding: 0;
+	margin: 0;
+	border: 0;
+}
+a{
+	text-decoration: none;
+	color: white;
+}
+.navigasi{
+	background-color:black; 
+	text-align: center;
+	width: 100%;
+	padding-top: 2%;
+	padding-bottom: 2%;
+}
+.navigasi ul li{
+	display: inline;
+	font-size: 30px;
+	margin-right: 5%;	
+}
+body{
+background-color: #FF6600;
+text-decoration: none;
+
+}
+
+.beranda{
+	background-size: cover;
+
+}
+.promo2{
+	margin-top: -24%;
+	text-align: left;
+	font-size: 24px;
+}
+.promo2 li{
+	background-color: black;
+	width: 17.9%;
+	border-radius: 7px;
+	margin:-5% 0 0 2%;
+	position: absolute;
+}
+.promo{
+	margin: 0 0 0 -30%;
+	padding-top: 5%;
+	width: 100%;
+}
+h1{
+	font-family:"Forte"; 
+	font-weight:500px;
+	font-size: 50px;
